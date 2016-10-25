@@ -1,3 +1,4 @@
 languageCode = "en-us"
 baseurl = "https://ebls.identai.net/"
 title = "Experience Based Learning Systems, Inc"
+metaDataFormat = "yaml"
